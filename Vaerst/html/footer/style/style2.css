@@ -3,20 +3,18 @@
 	color:white;
 	margin-left:auto;
 	margin-right:auto;
-	width: 100%;
+	width: 50%;
 	height:50%;
-	border-bottom: 3px solid #2e2e2e;
 	font-family: Courier New;
 	font-size: 1.4em;
-	text-align:center;
 }
 .cat_img{
 	background-image: url("assets/cat.jpg");
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	width:280px;
-	height:150px;
+	width:300px;
+	height:300px;
 	border:3px solid black;
 	border-radius:10px;
 	margin-left:auto;
