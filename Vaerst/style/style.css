@@ -1,10 +1,9 @@
 .wrapper{
-	background-color: rgba(0, 0, 0, 0.2);
-
+	background-color: rgba(17, 23, 29, 0.5);
 	margin-left:auto;
 	margin-right:auto;
-	width:98%;
-	border:3px solid #2e2e2e;
+	width: 98%;
+	border:3px solid #121A24;
 	border-radius:10px;
 }
 .body{
@@ -15,21 +14,21 @@
 }
 .header{
 	display:flex;
-	background-color:rgba(59,59,59,0.55);
-	color:white;
+	background-color:rgba(18, 26, 36, 0.55);
+	color: #D4D6D8;
 	margin-left:auto;
 	margin-right:auto;
 	width: 100%;
 	height:75px;
-	border-bottom: 3px solid #2e2e2e;
+	border-bottom: 3px solid #121A24;
 	font-family: Courier New;
 	font-size: 30px;
 	justify-content:center;
 
 }
 .content{
-	background-color:rgba(59,59,59,0.55);
-	color:white;
+	background-color:rgba(20, 34, 56, 0.3);
+	color: #D4D6D8;
 	margin-left:auto;
 	margin-right: auto;
 	margin-top:5%;
@@ -37,12 +36,12 @@
 	height:2390px;
 	font-family: Courier New;
 	font-size: 28px;
-	border:3px solid #2e2e2e;
+	border:3px solid #101416;
 	border-radius:10px;
 }
 
 .Sunny_content{
-	background-color: rgba(40, 40, 40, 0.90);
+	background-color: rgba(18, 26, 36, 0.55);
 	height:200px;
 	width:100%;
 	text-align:right;
@@ -52,17 +51,17 @@
 }
 
 .footer{
-	background-color:rgba(59,59,59,0.55);
-	color:white;
+	background-color:rgba(20, 34, 56, 0.3);
+	color: #D4D6D8;
 	margin-left:auto;
 	margin-right: auto;
 	margin-top:10px;
 	margin-bottom:10px;
-	width: 70%;
+	width: 88%;
 	height:30px;
 	font-family: Courier New;
-	font-size: 22px;
-	border:3px solid #2e2e2e;
+	font-size: 25px;
+	border:3px solid #101416;
 	border-radius:10px;
 	text-align:center;
 }
@@ -187,12 +186,32 @@
 	margin-top:5px;
 }
 .text_content{
-	font-size:1em;
+	background-color: rgba(34, 49, 68, 0.55);
+	font-size:0.8em;
+	height:200px;
+	width:420px;
+	border-left:3px solid #101416;
+	float:right;
+}
+
+.foto_title_content{
+	background-color:green;
+	font-size:0.65em;
 	height:20px;
-	margin-top:2px;
+	width:50px;
+}
+
+.model_title_content{
+	display:block;
+	background-color:green;
+	font-size:0.65em;
+	height:25px;
+	width:200px;
+	float:right;
+	margin-bottom:20px;
 }
 
 .link_style{
-	color:white;
+	color: #D4D6D8;
 	text-decoration: none;
 }
